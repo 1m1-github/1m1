@@ -29,3 +29,9 @@ https://julialang.org
 
 # scams
 since this machine is trustless, no one can hide their intention on this machine. a malicious user can still openly declare that it wants to rob you and thus rob you, if you do not read/listen to their intentions.
+
+# slides
+https://docs.google.com/presentation/d/1XiL26Ddy-O6a5PRuUJPv69cSKRmmXl0Xoma82dG4NQY
+
+# stream
+https://www.youtube.com/live/KO5AQKwCrrc
