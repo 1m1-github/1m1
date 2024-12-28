@@ -1,21 +1,21 @@
 # 1m1
-your trustless and learning machine
+your trustless and learning computer
 
 # goal
 successor of Apple, Microsoft, Google
 
 # trustless
-use any device, anywhere, anytime to access this forever machine, where all information and computation is fully trustworthy, as long as you have access to your account number
+use any device, anywhere, anytime to access this forever computer, where all information and computation is fully trustworthy, as long as you have access to your account number
 
 # virtual battery
-can be charged from your physical battery of any device you use. untouched unless you use the machine. can also be charged using other power networks.
+can be charged from your physical battery of any device you use. untouched unless you use the computer. can also be charged using other power networks.
 
 # Algorand
-provides the hardware for this machine.
+provides the hardware for this computer.
 https://algorand.co
 
 # AbstractOS
-provides the operating system of this machine.
+provides the operating system of this computer.
 learns with you and can do anything and increase in complexity with you.
 https://github.com/1m1-github/AbstractOS.jl
 
@@ -28,7 +28,7 @@ is the language to run in trustful mode on any device.
 https://julialang.org
 
 # scams
-since this machine is trustless, no one can hide their intention on this machine. a malicious user can still openly declare that it wants to rob you and thus rob you, if you do not read/listen to their intentions.
+since this computer is trustless, no one can hide their intention on this computer. a malicious user can still openly declare that it wants to rob you and thus rob you, if you do not read/listen to their intentions.
 
 # slides
 https://docs.google.com/presentation/d/1XiL26Ddy-O6a5PRuUJPv69cSKRmmXl0Xoma82dG4NQY
