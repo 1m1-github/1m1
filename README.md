@@ -2,7 +2,7 @@
 your trustless and learning computer
 
 # goal
-successor of Apple, Microsoft, Google
+to be the best computer ever made
 
 # trustless
 use any device, anywhere, anytime to access this forever computer, where all information and computation is fully trustworthy, as long as you have access to your account number
@@ -19,11 +19,11 @@ provides the operating system of this computer.
 learns with you and can do anything and increase in complexity with you.
 https://github.com/1m1-github/AbstractOS.jl
 
-# juliaTEAL
-is the language to run on in trustless mode.
-https://github.com/1m1-github/juliaTEAL
+# AVM.jl
+is the compiler to translate Julia to run on in trustless mode.
+https://github.com/1m1-github/AVM.jl
 
-# julia
+# Julia
 is the language to run in trustful mode on any device.
 https://julialang.org
 
