@@ -28,7 +28,7 @@ is the language to run in trustful mode on any device.
 https://julialang.org
 
 # tokens
-$1M1 tokens are governance tokens for the DAO, controlling the FairTreasury of this FairEnterprise. $1M1 will be reverse auctioned. Pre-auction tokens can be reserved via an investment anytime (before the auction), resulting in tokens given at the rate determined at the auction plus a discount of 10% minus 10% each 4 weeks since the annoucement of the project (2024-Nov-23).
+$1M1 tokens are governance tokens for the DAO, controlling the FairTreasury of this FairEnterprise. $1M1 will be reverse auctioned. Pre-auction tokens can be reserved via an investment anytime (before the auction), resulting in tokens given at the rate determined at the auction plus a discount of 10% minus 10% each 4 weeks since the annoucement of the project (2024-Nov-23). current discount: https://docs.google.com/spreadsheets/d/1EailoZQ9-L7HBBvCqKji4sOZtF5ck8rglcc5Njpn-1s
 
 # scams
 since this computer is trustless, no one can hide their intention on this computer. a malicious user can still openly declare that it wants to rob you and thus rob you, if you do not read/listen to their intentions.
