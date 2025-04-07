@@ -30,6 +30,11 @@ https://julialang.org
 # tokens
 $1M1 tokens are governance tokens for the DAO, controlling the FairTreasury of this FairEnterprise. $1M1 will be reverse auctioned. Pre-auction tokens can be reserved via an investment anytime (before the auction), resulting in tokens given at the rate determined at the auction plus a discount of 10% minus 10% each 4 weeks since the annoucement of the project (2024-Nov-23). current discount: https://docs.google.com/spreadsheets/d/1EailoZQ9-L7HBBvCqKji4sOZtF5ck8rglcc5Njpn-1s
 
+to invest, send any amount of any liquid currency to one of the following accounts (and let me know):
+AVM: 2I2IXTP67KSNJ5FQXHUJP5WZBX2JTFYEBVTBYFF3UUJ3SQKXSZ3QHZNNPY
+BTC: bc1qtrg9tgyg56exw3pdr6zgmupfpagh0ws8fagn8y
+EVM: 0xf96d3fB3c8bE72eE4CE0E2F077F05eF85f3b777C
+
 # scams
 since this computer is trustless, no one can hide their intention on this computer. a malicious user can still openly declare that it wants to rob you and thus rob you, if you do not read/listen to their intentions.
 
